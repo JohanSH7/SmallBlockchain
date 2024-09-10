@@ -34,4 +34,4 @@ The documentation used for this implementation is available at the following [li
 
 ## Code
 
-The code was developed in Google Colab to be used on other devices. The link to the notebook is attached in this document.
+The code was developed in Google Colab to be used on other devices. The [link](https://colab.research.google.com/github/JohanSH7/SmallBlockchain/blob/main/Task_BLOCKCHAINipynb.ipynb) to the notebook is attached in this document.
